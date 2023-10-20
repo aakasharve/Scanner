@@ -1,0 +1,8 @@
+D:\Prashant\ChartingReader\ChartingReader\obj\Release\net6.0\PubTmp\Out\ChartingReader.exe
+D:\Prashant\ChartingReader\ChartingReader\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Prashant\ChartingReader\ChartingReader\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Prashant\ChartingReader\ChartingReader\obj\Release\net6.0\PubTmp\Out\ChartingReader.dll
+D:\Prashant\ChartingReader\ChartingReader\obj\Release\net6.0\PubTmp\Out\ChartingReader.deps.json
+D:\Prashant\ChartingReader\ChartingReader\obj\Release\net6.0\PubTmp\Out\ChartingReader.runtimeconfig.json
+D:\Prashant\ChartingReader\ChartingReader\obj\Release\net6.0\PubTmp\Out\ChartingReader.pdb
+D:\Prashant\ChartingReader\ChartingReader\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll

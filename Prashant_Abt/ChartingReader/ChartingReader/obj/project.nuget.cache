@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1N/uKTZDTAG0X6nl1sUXfWDOYSzsdwlYFnDZWgkF4Yt9HkOmG9AGWlGGhcioiq9lRpzbzRcLqEEKKaUZYqqgzw==",
+  "success": true,
+  "projectFilePath": "D:\\Prashant_Abt\\ChartingReader\\ChartingReader\\ChartingReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akash\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
